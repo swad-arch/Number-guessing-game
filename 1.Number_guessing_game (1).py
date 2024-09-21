@@ -21,4 +21,4 @@ if question == "y" or question == 'Y':
         if guess < random_number:
             print("Guess Higher...")
     if guess == random_number:
-        print("You're correct! you win the cash! The Number Was", random_number, "and it only", tries, "tries!")
+        print("You're correct! you win the cash 20000 dollar! The Number Was", random_number, "and it only", tries, "tries!")
